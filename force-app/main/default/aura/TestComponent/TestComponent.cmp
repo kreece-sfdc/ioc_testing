@@ -1,0 +1,6 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" controller="TestComponent_Controller">
+    <aura:attribute name="value" type="string" />
+    <lightning:button onclick="{!c.onTest}" label="Click Me!" />
+    
+    {!v.value}
+</aura:component>

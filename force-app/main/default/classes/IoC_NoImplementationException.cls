@@ -1,0 +1,1 @@
+public class IoC_NoImplementationException extends Exception { }

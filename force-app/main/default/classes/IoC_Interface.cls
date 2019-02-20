@@ -1,0 +1,1 @@
+public interface IoC_Interface { }
